@@ -1,7 +1,7 @@
 'use strict';
 // MIDTV synthetic CatPawOpen demo source package.
 // All media is a developer-owned gradient placeholder + generated posters.
-const BASE = 'https://cdn.jsdelivr.net/gh/lonelyice521/midtvdemo@main';
+const BASE = 'https://raw.githubusercontent.com/lonelyice521/midtvdemo/main';
 
 const CLASSES = [
   { type_id: 'movies', type_name: '电影' },
